@@ -6,7 +6,7 @@
 
 html,
 body{
-background-color: #1b1b32;
+background-color:  #0b0b23 ;
 }
 
 .App {
@@ -30,5 +30,20 @@ font-family: Lato, sans-serif;
 .freecodecamp-logo{
 height: 50px;
 color: cadetblue;
+
+}
+
+
+.contenedor-principal {
+height: 550px;
+min-width: 600px;
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+
+
 
 }
